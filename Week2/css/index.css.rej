@@ -1,0 +1,8 @@
+diff a/Week2/css/index.css b/Week2/css/index.css	(rejected hunks)
+@@ -0,0 +1,5 @@
++.badge {
++  font-weight: bold;
++  color: #F78181;
++  background-color: #F6CECE;
++  
+\ No newline at end of file
