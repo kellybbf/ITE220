@@ -2,7 +2,7 @@
 //this is where we give the message value we call it (msg).//
 
 
-var msg = "sign up to receive our newletter for 20% off.";
+var msg = "sign up to receive our newletter for 10% off.";
 
 //
 
